@@ -1,3 +1,3 @@
-a = 22
-b = 2
-print(a + b)  
+a = 200
+b = 5
+print(a * b)  
